@@ -1,0 +1,16 @@
+{
+  "name": "Pediatric Path Master",
+  "short_name": "PedPath",
+  "description": "Educational platform for pediatric pathology residents",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0c4a6e",
+  "theme_color": "#0ea5e9",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
